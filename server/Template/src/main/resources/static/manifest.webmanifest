@@ -1,6 +1,6 @@
 {
-  "name": "Template",
-  "short_name": "Template",
+  "name": "Weather Search",
+  "short_name": "Weather Search",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
