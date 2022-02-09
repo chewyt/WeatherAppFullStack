@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644342542364,
+  "timestamp": 1644383026695,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.96e08c6060e53397.js",
+        "/main.39513544bea8d91c.js",
         "/manifest.webmanifest",
         "/polyfills.fe4cb9c3e90aec08.js",
         "/runtime.af2d367df3ecc7d6.js",
@@ -329,8 +329,8 @@
     "/assets/morning.jpg": "72fe3341bbf434c7b37c72090071605e51d567f1",
     "/assets/night.jpg": "c1e1c26c44198955fdf11a923d70f52401fc649c",
     "/favicon.ico": "3331403694ba5f1372a81039051e28fda98737e9",
-    "/index.html": "3a1a17931c9bbda03d9ba6a4960820084a2c7941",
-    "/main.96e08c6060e53397.js": "38b92d1841301a6dd8b668b098e9a35c697b529a",
+    "/index.html": "74b538cc32dae65a1b6d4ceecf976f61a932feb4",
+    "/main.39513544bea8d91c.js": "1afa9634b8e68a72f5768a8b7bb5678e4ac8f76e",
     "/manifest.webmanifest": "fc8fd794abf9388d9fbaf044fbe9ce3bfb32f59e",
     "/morning.356fab9e284ea610.jpg": "72fe3341bbf434c7b37c72090071605e51d567f1",
     "/night.aecd44a54efa219f.jpg": "c1e1c26c44198955fdf11a923d70f52401fc649c",
