@@ -1,0 +1,21 @@
+<h3 class="text-center" style="color: rgb(255, 255, 255);font-size: 5.5rem; ">{{timeString}}</h3>
+<h3 class="text-center mb-3" style="color: rgb(255, 255, 255); ">{{dateString}}</h3>
+<br><br><br>
+<mat-card class="todo">
+    <mat-card-header>
+        <mat-card-title style="font-size: 30px;">Weather API</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <form action="" [formGroup]="form" (ngSubmit)="getServer()">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="City name" id="city" name="city" formControlName="city">
+                <div class="input-group-append">
+                  <button type="submit" class="btn btn-primary input-group-btn-right" [disabled]="form.invalid">Search</button>
+                </div>
+              </div>
+        </form>
+    </mat-card-content>
+</mat-card>
+<br><br><br><br><br><br><br><br>
+
+  
